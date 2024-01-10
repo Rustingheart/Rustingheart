@@ -8,8 +8,7 @@
   > MySQL
 
 - 🌬 Fun fact: I am an Artist > Dancer
-  
-- 📫 How to reach me https://de.linkedin.com/in/paula-hierzi
+
 <!---
 Rustingheart/Rustingheart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
