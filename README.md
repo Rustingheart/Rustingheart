@@ -6,6 +6,8 @@
   > Coursera
 - > Python (NumPy, Pandas, Matplotlib);
   > MySQL
+  > SciKitLearn (KNN, Lin Reg, Decision Tree)
+- > big fan of Google Colabs !!! 
 
 - 🌬 Fun fact: I am an Artist > Dancer
 
