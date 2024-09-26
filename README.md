@@ -1,13 +1,15 @@
 - 🌻 Hi, I’m Paula
-  > Pronouns: they; she/her
-- 🌱 I’m currently learning everything I can about DATA
+  > Pronouns: they/them; she/her
+- 🌱 I’m currently learning everything I can about DATA & NETWORKS
 - > Code First Girls;
   > Tech Labs Berlin;
   > Coursera
+  > Data Science & DevOps
 - > Python (NumPy, Pandas, Matplotlib);
   > MySQL
   > SciKitLearn (KNN, Lin Reg, Decision Tree)
-- > big fan of Google Colabs !!! 
+- > big fan of Google Colabs !!!
+  > currently getting to know Docker, Kubernetes, Terraform, ...
 
 - 🌬 Fun fact: I am an Artist > Dancer
 
