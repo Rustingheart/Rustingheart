@@ -1,16 +1,17 @@
 - 🌻 Hi, I’m Paula
   > Pronouns: they/them; she/her
-- 🌱 I’m currently learning everything I can about DATA & NETWORKS
-- > Data Science & DevOps
-- > Code First Girls;
-  > Tech Labs Berlin;
-  > DataScientest
-  > Coursera
+- 🌱 Aspiring to work with DATA & NETWORKS
+- > Data Science & DevOps Engineering
 - > Python (NumPy, Pandas, Matplotlib);
-  > MySQL
-  > SciKitLearn (KNN, Lin Reg, Decision Tree)
-- > big fan of Google Colabs !!!
-- > currently getting to know Docker, Kubernetes, Terraform, ...
+  > > SciKitLearn (KNN, Lin Reg, Decision Tree)
+  > >> big fan of Google Colabs !!!
+- > Data: MySQL, Mongo DB
+- > Fast API 
+- > CI/CD with: GitHub Actions, Jenkins
+- > GitHubPages 
+- > Vagrant, Docker, Kubernetes, Terraform & Ansible 
+- > Monitoring: Prometheus & Grafana
+- > AWS
 
 - 🌬 Fun fact: I am an Artist > Dancer
 
